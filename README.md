@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @h-v-Pranathi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-h-v-Pranathi/h-v-Pranathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @h-v-Pranathi  
+- 👩‍💻 I’m passionate about Web Development and building real-world AI-integrated tools  
+- 🌱 Currently learning full-stack development, automation workflows, and prompt-based AI systems  
+- 🤝 I’m open to collaborating on frontend projects, AI tools using MCP, and workflow automation  
+- 📫 You can reach me at: hvpranathi39@gmail.com  
+- 😄 Pronouns: she/her  
+- ⚡ Fun fact: I once built an AI assistant that posted to LinkedIn, sent emails, and made voice calls — all in one session 😎  
